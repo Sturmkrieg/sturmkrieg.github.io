@@ -4,6 +4,10 @@ body {
   color: #DDDDDD;
 }
 
+a {
+  color: #DF0101;
+}
+
 .h1 {
   font-size: 42px;
 }
